@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.chao</groupId>
-    <artifactId>activti-demo</artifactId>
+    <artifactId>swagger-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>activti-demo</name>
+    <name>swagger-demo</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
